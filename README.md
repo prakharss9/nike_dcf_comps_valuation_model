@@ -8,7 +8,7 @@ A five-year Excel valuation of Nike (NYSE: NKE) using unlevered discounted cash 
 
 ## Files and links
 
-- **[Download the Excel model](Nike DCF & Comps Valuation Model.xlsx):** workbook with a WACC calculation, DCF, operating cases, peer multiples, and sensitivity analysis.
+- **[Download the Excel model](https://github.com/prakharss9/nike_dcf_comps_valuation_model/blob/35ca6b2062092d9dbcaf2695a8923e518cb3e702/Nike%20DCF%20%26%20Comps%20Valuation%20Model.xlsx):** workbook with a WACC calculation, DCF, operating cases, peer multiples, and sensitivity analysis.
 - **[Read the detailed analysis](https://gist.github.com/prakharss9/10cb0281c85aa2dcd756e27f49f91f61):** project write-up covering assumptions, the valuation bridge, and risks.
 
 Download the workbook and open it in Microsoft Excel to inspect the formulas. This README assumes the file is uploaded at the repository root under its original filename, `NKE_DCF_Model_Final.xlsx`.
